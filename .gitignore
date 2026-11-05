@@ -1,0 +1,15 @@
+.gradle/
+.kotlin/
+build/
+/local.properties
+.idea/
+*.iml
+.DS_Store
+/captures
+# Signing keys and their passwords never go in the repo
+*.jks
+*.keystore
+keystore.properties
+# Built apps (published as GitHub release assets instead)
+*.apk
+*.aab

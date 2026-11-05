@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Minimal Launcher</string>
+    <string name="lock_service_label">Minimal Launcher: double-tap to lock</string>
+    <string name="lock_service_description">Lets Minimal Launcher lock your screen when you double-tap an empty part of the home screen, the same way the power button does. It doesn\'t read or change anything on your screen.</string>
+</resources>

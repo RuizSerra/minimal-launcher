@@ -1,0 +1,10 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Three lines of different length: a minimal "list" glyph inside the 66dp safe zone. -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M37,40h34a2,2 0,0 1,0 4h-34a2,2 0,0 1,0 -4z M37,52h24a2,2 0,0 1,0 4h-24a2,2 0,0 1,0 -4z M37,64h30a2,2 0,0 1,0 4h-30a2,2 0,0 1,0 -4z" />
+</vector>
