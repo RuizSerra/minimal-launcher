@@ -15,6 +15,12 @@ A text-only Android home screen. The home page shows the time, date, battery, to
 - **Yours:** favourites in your own order and with your own names, hidden apps, a choice of fonts, text sizes and spacing.
 - **Private:** no internet access at all. Nothing leaves your phone.
 
+> **About this project**
+>
+> - **Vibecoded:** this launcher was written entirely by [Claude Opus 5.5](https://www.anthropic.com/claude), Anthropic's AI model, through conversation. I described what I wanted, tested each version on my phone, and asked for changes; Claude wrote the code.
+> - **Inspiration:** the idea and much of the design are heavily inspired by [Indistract Minimalist Launcher](https://play.google.com/store/apps/details?id=com.indistractablelauncher.android). If you like this, go and check out the original. This project isn't affiliated with or endorsed by Indistract or its developers.
+> - **No responsibility:** this is a hobby project with no warranty. Use it at your own risk (see [Disclaimer](#disclaimer)).
+
 ## Install
 
 Needs Android 8.0 or newer.
@@ -142,6 +148,10 @@ app/src/main/java/dev/jaime/launcher/
   ui/Fonts.kt              The font choices (files in assets/fonts)
   ui/TickHaptics.kt        The vibration tick
 ```
+
+## Disclaimer
+
+Minimal Launcher is a personal hobby project, provided "as is", without warranty of any kind. I take no responsibility for anything that happens as a result of installing or using it. That includes lost settings, apps or notifications you miss, a phone that misbehaves, and data loss. You use it entirely at your own risk. I'm not obliged to fix bugs, answer questions or keep it working on future versions of Android. The GPL licence says the same in its sections 15 and 16.
 
 ## Licence
 
